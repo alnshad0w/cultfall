@@ -1,0 +1,1058 @@
+fileFormatVersion: 2
+guid: 6156eb1ab577aa546ae50a2569037028
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7670292478822123081
+    second: kyoko atlas_0
+  - first:
+      213: -8852715192666938181
+    second: kyoko atlas_1
+  - first:
+      213: 7801087592118604923
+    second: kyoko atlas_2
+  - first:
+      213: 5283174246062267125
+    second: kyoko atlas_3
+  - first:
+      213: -667101956671695332
+    second: kyoko atlas_4
+  - first:
+      213: -999886147496346466
+    second: kyoko atlas_5
+  - first:
+      213: -5921444602028235032
+    second: kyoko atlas_6
+  - first:
+      213: 4468939441079307886
+    second: kyoko atlas_7
+  - first:
+      213: 2875045665804964901
+    second: kyoko atlas_8
+  - first:
+      213: 6141101077978682168
+    second: kyoko atlas_9
+  - first:
+      213: 1872033214842706797
+    second: kyoko atlas_10
+  - first:
+      213: 613601601148666591
+    second: kyoko atlas_11
+  - first:
+      213: -2257086486664501025
+    second: kyoko atlas_12
+  - first:
+      213: 166570280024441811
+    second: kyoko atlas_13
+  - first:
+      213: -4259526027953888848
+    second: kyoko atlas_14
+  - first:
+      213: -5753749500464256803
+    second: kyoko atlas_15
+  - first:
+      213: 1649014183816853154
+    second: kyoko atlas_16
+  - first:
+      213: -2979910517755988282
+    second: kyoko atlas_17
+  - first:
+      213: 1986319925595701010
+    second: kyoko atlas_18
+  - first:
+      213: -1639100137523697789
+    second: kyoko atlas_19
+  - first:
+      213: 5637764182752882165
+    second: kyoko atlas_20
+  - first:
+      213: -1767142242638761439
+    second: kyoko atlas_21
+  - first:
+      213: -4864398597923387085
+    second: kyoko atlas_22
+  - first:
+      213: 2298369054339209317
+    second: kyoko atlas_23
+  - first:
+      213: 3737044236137867862
+    second: kyoko atlas_24
+  - first:
+      213: 1357745003925379487
+    second: kyoko atlas_25
+  - first:
+      213: -4863898749932029808
+    second: kyoko atlas_26
+  - first:
+      213: -4992638997378184809
+    second: kyoko atlas_27
+  - first:
+      213: -2375841135734505904
+    second: kyoko atlas_28
+  - first:
+      213: 7818915002772206577
+    second: kyoko atlas_29
+  - first:
+      213: 429096613363812210
+    second: kyoko atlas_30
+  - first:
+      213: 813914983705795623
+    second: kyoko atlas_31
+  - first:
+      213: 9028374757708899771
+    second: kyoko atlas_32
+  - first:
+      213: 8827605284962792265
+    second: kyoko atlas_33
+  - first:
+      213: -494264941999366054
+    second: kyoko atlas_34
+  - first:
+      213: 3222145931424347259
+    second: kyoko atlas_35
+  - first:
+      213: 5047428241994885059
+    second: kyoko atlas_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kyoko attack front 3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 809
+        width: 109
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9f47421a5ad8590800000000000000
+      internalID: -7670292478822123081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 806
+        width: 108
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4226b9f66d42580800000000000000
+      internalID: -8852715192666938181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_2
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 809
+        width: 109
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74dfe545d7034c60800000000000000
+      internalID: 7801087592118604923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_3
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 806
+        width: 108
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa980f3cfa915940800000000000000
+      internalID: 5283174246062267125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_4
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 809
+        width: 109
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c169d9b0e4afdb6f0800000000000000
+      internalID: -667101956671695332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_5
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 806
+        width: 108
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c75a2b8d0bf12f0800000000000000
+      internalID: -999886147496346466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack front 1
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 816
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6e3f2f18dc2dda0800000000000000
+      internalID: -5921444602028235032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack front 2
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 816
+        width: 141
+        height: 181
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ec3448ebcd40e30800000000000000
+      internalID: 4468939441079307886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack front
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 816
+        width: 141
+        height: 181
+      alignment: 9
+      pivot: {x: 0.62, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83310bab4e2993550800000000000000
+      internalID: 6141101077978682168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack front 4
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 806
+        width: 138
+        height: 191
+      alignment: 9
+      pivot: {x: 0.6, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b9e6a5a4ccaf910800000000000000
+      internalID: 1872033214842706797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 611
+        width: 100
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2c31eb763f38800800000000000000
+      internalID: 613601601148666591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 611
+        width: 96
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd827078cc73da0e0800000000000000
+      internalID: -2257086486664501025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 611
+        width: 100
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d38ef289c6cf4200800000000000000
+      internalID: 166570280024441811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_14
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 611
+        width: 96
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1274045af13e4c0800000000000000
+      internalID: -4259526027953888848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_15
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 611
+        width: 100
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd82f3260539620b0800000000000000
+      internalID: -5753749500464256803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_16
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 611
+        width: 96
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6fbffc9a972e610800000000000000
+      internalID: 1649014183816853154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack right 1
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 593
+        width: 96
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c634be1c2b35a6d0800000000000000
+      internalID: -2979910517755988282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack right 2
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 592
+        width: 119
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f7967c273d09b10800000000000000
+      internalID: 1986319925595701010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack right 3
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 592
+        width: 163
+        height: 181
+      alignment: 9
+      pivot: {x: 0.28, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3872b97fb1fb049e0800000000000000
+      internalID: -1639100137523697789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack right 4
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 592
+        width: 167
+        height: 181
+      alignment: 9
+      pivot: {x: 0.28, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56893a64a7275ef10800000000000000
+      internalID: 2298369054339209317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 382
+        width: 103
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99988e23eda7d210800000000000000
+      internalID: 1357745003925379487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 380
+        width: 101
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098b5d26bd5ff7cb0800000000000000
+      internalID: -4863898749932029808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack back 1
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 379
+        width: 96
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799c285b84596bab0800000000000000
+      internalID: -4992638997378184809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack back 2
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 379
+        width: 129
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eb8c52311570fd0800000000000000
+      internalID: -2375841135734505904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack back 3
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 379
+        width: 132
+        height: 180
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3b535c4cd528c60800000000000000
+      internalID: 7818915002772206577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack back 4
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 380
+        width: 122
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2778fdda81574f500800000000000000
+      internalID: 429096613363812210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 30
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cd6298d5b9b4b00800000000000000
+      internalID: 813914983705795623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_32
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 30
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5a75cf10b3b4d70800000000000000
+      internalID: 9028374757708899771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_33
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 30
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943719b6c34f18a70800000000000000
+      internalID: 8827605284962792265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_34
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 30
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50e23b67a40429f0800000000000000
+      internalID: -494264941999366054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_35
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 30
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74b40927ac57bc20800000000000000
+      internalID: 3222145931424347259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko atlas_36
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 30
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c721616e311c0640800000000000000
+      internalID: 5047428241994885059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack left 1
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 80
+        width: 185
+        height: 181
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06d95bf4c409df4d85cf50465f2e60f
+      internalID: 2875045665804964901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack left 2
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 79
+        width: 179
+        height: 181
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a67ba87dede46a439ea84d544c321d4
+      internalID: 5637764182752882165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack left 3
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 78
+        width: 146
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4ac23890772174ea468e71bf6f9840
+      internalID: -1767142242638761439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyoko attack left 4
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 78
+        width: 116
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbdb015d65b29b4bb1d8f9fc495aa6e
+      internalID: -4864398597923387085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5f69449e6cf75aa4d8b30dc4f5e54b3e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kyoko atlas_1: -8852715192666938181
+      kyoko atlas_11: 613601601148666591
+      kyoko atlas_12: -2257086486664501025
+      kyoko atlas_13: 166570280024441811
+      kyoko atlas_14: -4259526027953888848
+      kyoko atlas_15: -5753749500464256803
+      kyoko atlas_16: 1649014183816853154
+      kyoko atlas_2: 7801087592118604923
+      kyoko atlas_24: 3737044236137867862
+      kyoko atlas_25: 1357745003925379487
+      kyoko atlas_26: -4863898749932029808
+      kyoko atlas_3: 5283174246062267125
+      kyoko atlas_31: 813914983705795623
+      kyoko atlas_32: 9028374757708899771
+      kyoko atlas_33: 8827605284962792265
+      kyoko atlas_34: -494264941999366054
+      kyoko atlas_35: 3222145931424347259
+      kyoko atlas_36: 5047428241994885059
+      kyoko atlas_4: -667101956671695332
+      kyoko atlas_5: -999886147496346466
+      kyoko attack back 1: -4992638997378184809
+      kyoko attack back 2: -2375841135734505904
+      kyoko attack back 3: 7818915002772206577
+      kyoko attack back 4: 429096613363812210
+      kyoko attack front: 6141101077978682168
+      kyoko attack front 1: -5921444602028235032
+      kyoko attack front 2: 4468939441079307886
+      kyoko attack front 3: -7670292478822123081
+      kyoko attack front 4: 1872033214842706797
+      kyoko attack lef 1: 5637764182752882165
+      kyoko attack left 1: 2875045665804964901
+      kyoko attack left 2: 5637764182752882165
+      kyoko attack left 3: -1767142242638761439
+      kyoko attack left 4: -4864398597923387085
+      kyoko attack right 1: -2979910517755988282
+      kyoko attack right 2: 1986319925595701010
+      kyoko attack right 3: -1639100137523697789
+      kyoko attack right 4: 2298369054339209317
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Kyoko
+  m_Controller: {fileID: 9100000, guid: 3b71dbb6ceb92a24e97c56fe2265b6e8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 78ce6ee58b1dce84e85ca032a4ba8e06, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7384d1ae5da7ba143bcb6d5ad75e66f7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6e9a831a552bf3a48acfe485cd569686, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 52c9f9baa3b6b9f4094465a6503a0fa6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 014d2731ce17f8044888d29f612c75d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3b64fa7b9cd64fb4da6a07a469b8d75e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 687be4fdb88c69c439be853941345efa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0f0fb2cb806cad240bc2630c43c6847a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 344c93c19c0bba14788b3524154d50f3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f3730372622bd6044891b7ed0f1819f4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 67b383d1308ec4e408aba90a66ca277c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b92fb466d9d3b4a48b8ec9ab5a41789a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fc11dc28b392b834996641d773554b89, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3fb574ce85844bf4f91480a80dccf7e6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 325334e5498ba5949a76e481bc4abf4e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 64dae3f7955b86a4d8b5bca4be1d17bb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e578d290643dab94ea788b36ddce6b26, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 874a03a9ac80ef340a8f9b8af7b06da7, type: 2}

@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: a42f5ebb4d8855a46b7f3973cd523581
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3118754906697281177
+    second: rei atlas_0
+  - first:
+      213: 3176272259778118244
+    second: rei atlas_1
+  - first:
+      213: -3370381144178450018
+    second: rei atlas_2
+  - first:
+      213: -8217859292072173820
+    second: rei atlas_3
+  - first:
+      213: 374309061220174719
+    second: rei atlas_4
+  - first:
+      213: 6756860426396418226
+    second: rei atlas_5
+  - first:
+      213: 368227981308929031
+    second: rei atlas_6
+  - first:
+      213: -481455131018349197
+    second: rei atlas_7
+  - first:
+      213: -6340620075262461893
+    second: rei atlas_8
+  - first:
+      213: 2758397775139403836
+    second: rei atlas_9
+  - first:
+      213: -2558308995120101152
+    second: rei atlas_10
+  - first:
+      213: 1216314272223012590
+    second: rei atlas_11
+  - first:
+      213: 6955125748472545691
+    second: rei atlas_12
+  - first:
+      213: -8668871251599044783
+    second: rei atlas_13
+  - first:
+      213: -2955253992375649104
+    second: rei atlas_14
+  - first:
+      213: 4990488293835266294
+    second: rei atlas_15
+  - first:
+      213: 1623143880147804483
+    second: rei atlas_16
+  - first:
+      213: 710058469279714408
+    second: rei atlas_17
+  - first:
+      213: -7522442092704560097
+    second: rei atlas_18
+  - first:
+      213: -1988843200454131979
+    second: rei atlas_19
+  - first:
+      213: -8309776565707831202
+    second: rei atlas_20
+  - first:
+      213: 2874429539650147642
+    second: rei atlas_21
+  - first:
+      213: -6003897468410122319
+    second: rei atlas_22
+  - first:
+      213: 1312464800286534419
+    second: rei atlas_23
+  - first:
+      213: 1597398367313234181
+    second: rei atlas_24
+  - first:
+      213: 1733401638012126182
+    second: rei atlas_25
+  - first:
+      213: -8284816068155377757
+    second: rei atlas_26
+  - first:
+      213: 7463021942572502041
+    second: rei atlas_27
+  - first:
+      213: -1579554967866002699
+    second: rei atlas_28
+  - first:
+      213: 884842733271611627
+    second: rei atlas_29
+  - first:
+      213: 145407713680278524
+    second: rei atlas_30
+  - first:
+      213: -1253968919669514578
+    second: rei atlas_31
+  - first:
+      213: 2819270585074865560
+    second: rei atlas_32
+  - first:
+      213: 8315931831307609713
+    second: rei atlas_33
+  - first:
+      213: 5083902505414998798
+    second: rei atlas_34
+  - first:
+      213: 3853091412214332995
+    second: rei atlas_35
+  - first:
+      213: -575254181769351123
+    second: rei atlas_36
+  - first:
+      213: -8888748728484689561
+    second: rei atlas_37
+  - first:
+      213: 1785531324103028807
+    second: rei atlas_38
+  - first:
+      213: -5507440934575108025
+    second: rei atlas_39
+  - first:
+      213: 218779377197777775
+    second: rei atlas_40
+  - first:
+      213: 4903980287026672122
+    second: rei atlas_41
+  - first:
+      213: 2252816087995074650
+    second: rei atlas_42
+  - first:
+      213: 4739612708721460832
+    second: rei atlas_43
+  - first:
+      213: -5595501827620225561
+    second: rei atlas_44
+  - first:
+      213: 4535016768559447861
+    second: rei atlas_45
+  - first:
+      213: 2208394090240201743
+    second: rei atlas_46
+  - first:
+      213: 4851783543519341907
+    second: rei atlas_47
+  - first:
+      213: -605750070558855524
+    second: rei atlas_48
+  - first:
+      213: -5055593886701897566
+    second: rei atlas_49
+  - first:
+      213: 2594966576695716717
+    second: rei atlas_50
+  - first:
+      213: -8665240310346209572
+    second: rei atlas_51
+  - first:
+      213: -354430114381378240
+    second: rei atlas_52
+  - first:
+      213: -1635346874656759328
+    second: rei atlas_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rei atlas_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 793
+        width: 143
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7615dccafe4f7b4d0800000000000000
+      internalID: -3118754906697281177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 791
+        width: 143
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462800aaac2641c20800000000000000
+      internalID: 3176272259778118244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 792
+        width: 143
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91a197d4300a31d0800000000000000
+      internalID: -3370381144178450018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_3
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 793
+        width: 140
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f15e1938c44fd80800000000000000
+      internalID: -8217859292072173820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 793
+        width: 140
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b0d36ab10d13500800000000000000
+      internalID: 374309061220174719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_5
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 795
+        width: 140
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0c04822c035cd50800000000000000
+      internalID: 6756860426396418226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 796
+        width: 121
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7042746e5653c1500800000000000000
+      internalID: 368227981308929031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 795
+        width: 169
+        height: 191
+      alignment: 9
+      pivot: {x: 0.66, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375bc54fb178159f0800000000000000
+      internalID: -481455131018349197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_10
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 796
+        width: 146
+        height: 191
+      alignment: 9
+      pivot: {x: 0.62, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e80e20068f0f7cd0800000000000000
+      internalID: -2558308995120101152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_11
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 785
+        width: 163
+        height: 191
+      alignment: 9
+      pivot: {x: 0.61, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee62713e26731e010800000000000000
+      internalID: 1216314272223012590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 559
+        width: 90
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9101e5b402958060800000000000000
+      internalID: 6955125748472545691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 559
+        width: 90
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fc7dcb68bf1b780800000000000000
+      internalID: -8668871251599044783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 559
+        width: 90
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcf46bc624dcf6d0800000000000000
+      internalID: -2955253992375649104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_15
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 559
+        width: 90
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8dbc999a6c14540800000000000000
+      internalID: 4990488293835266294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_16
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 559
+        width: 90
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3412f8b52c0968610800000000000000
+      internalID: 1623143880147804483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_17
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 559
+        width: 90
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ccc2f6a62aad900800000000000000
+      internalID: 710058469279714408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei right
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 554
+        width: 83
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c06e4b5caea9790800000000000000
+      internalID: -7522442092704560097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei attack right 1
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 554
+        width: 171
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fefaf285a53664e0800000000000000
+      internalID: -1988843200454131979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei attack right 2
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 554
+        width: 190
+        height: 191
+      alignment: 9
+      pivot: {x: 0.28, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b684938cfc63210800000000000000
+      internalID: 1312464800286534419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei attack right 3
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 554
+        width: 118
+        height: 191
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e30bc61b974e0810800000000000000
+      internalID: 1733401638012126182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 324
+        width: 90
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7762c4eab660d80800000000000000
+      internalID: -8284816068155377757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 324
+        width: 90
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ccafd7aeaf19760800000000000000
+      internalID: 7463021942572502041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 324
+        width: 90
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2b425202b441ae0800000000000000
+      internalID: -1579554967866002699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_29
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 324
+        width: 90
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be87dbe17c7974c00800000000000000
+      internalID: 884842733271611627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_30
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 324
+        width: 90
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c3819b87940200800000000000000
+      internalID: 145407713680278524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_31
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 324
+        width: 90
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaed7bf49e1099ee0800000000000000
+      internalID: -1253968919669514578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei attack left 1
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 324
+        width: 118
+        height: 191
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8955815f8af002720800000000000000
+      internalID: 2819270585074865560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei attack left 2
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 324
+        width: 190
+        height: 191
+      alignment: 9
+      pivot: {x: 0.73, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bbafb9466ad8640800000000000000
+      internalID: 5083902505414998798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei attack left 3
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 324
+        width: 168
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7407e74774b77c810800000000000000
+      internalID: 1785531324103028807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei left
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 324
+        width: 83
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740943156a3a193b0800000000000000
+      internalID: -5507440934575108025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_40
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 64
+        width: 121
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f630e063fa2490300800000000000000
+      internalID: 218779377197777775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 61
+        width: 139
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af13eb1b6107e0440800000000000000
+      internalID: 4903980287026672122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_42
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 67
+        width: 137
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a584b3dcb4c934f10800000000000000
+      internalID: 2252816087995074650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_43
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 66
+        width: 129
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0660544a5ac76c140800000000000000
+      internalID: 4739612708721460832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_44
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 66
+        width: 129
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edb5a8ebb8c852b0800000000000000
+      internalID: -5595501827620225561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_45
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 66
+        width: 129
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ffc6439bd9fee30800000000000000
+      internalID: 4535016768559447861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_46
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 66
+        width: 129
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04d6d879bac5ae10800000000000000
+      internalID: 2208394090240201743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_47
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 66
+        width: 129
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d6e8e4d6ff45340800000000000000
+      internalID: 4851783543519341907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 66
+        width: 129
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eebad2581f797f0800000000000000
+      internalID: -605750070558855524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei back
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 69
+        width: 121
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a83f7e452ce6d9b0800000000000000
+      internalID: -5055593886701897566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei attack back
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 69
+        width: 180
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ba5ff4a5c230420800000000000000
+      internalID: 2594966576695716717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei attack back 1
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 71
+        width: 172
+        height: 191
+      alignment: 9
+      pivot: {x: 0.34, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd62b6029d1eeb780800000000000000
+      internalID: -8665240310346209572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rei attack back 2
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 72
+        width: 129
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1e9839ea41e49e0800000000000000
+      internalID: -1635346874656759328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4d35ff1ee1ebe9a4395d279d1a799249
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rei atlas_0: -3118754906697281177
+      rei atlas_1: 3176272259778118244
+      rei atlas_10: -2558308995120101152
+      rei atlas_11: 1216314272223012590
+      rei atlas_12: 6955125748472545691
+      rei atlas_13: -8668871251599044783
+      rei atlas_14: -2955253992375649104
+      rei atlas_15: 4990488293835266294
+      rei atlas_16: 1623143880147804483
+      rei atlas_17: 710058469279714408
+      rei atlas_2: -3370381144178450018
+      rei atlas_20: -8309776565707831202
+      rei atlas_21: 2874429539650147642
+      rei atlas_22: -6003897468410122319
+      rei atlas_24: 1597398367313234181
+      rei atlas_26: -8284816068155377757
+      rei atlas_27: 7463021942572502041
+      rei atlas_28: -1579554967866002699
+      rei atlas_29: 884842733271611627
+      rei atlas_3: -8217859292072173820
+      rei atlas_30: 145407713680278524
+      rei atlas_31: -1253968919669514578
+      rei atlas_33: 8315931831307609713
+      rei atlas_35: 3853091412214332995
+      rei atlas_36: -575254181769351123
+      rei atlas_37: -8888748728484689561
+      rei atlas_4: 374309061220174719
+      rei atlas_40: 218779377197777775
+      rei atlas_41: 4903980287026672122
+      rei atlas_42: 2252816087995074650
+      rei atlas_43: 4739612708721460832
+      rei atlas_44: -5595501827620225561
+      rei atlas_45: 4535016768559447861
+      rei atlas_46: 2208394090240201743
+      rei atlas_47: 4851783543519341907
+      rei atlas_48: -605750070558855524
+      rei atlas_5: 6756860426396418226
+      rei atlas_52: -354430114381378240
+      rei atlas_6: 368227981308929031
+      rei atlas_7: -481455131018349197
+      rei atlas_8: -6340620075262461893
+      rei atlas_9: 2758397775139403836
+      rei attack back: 2594966576695716717
+      rei attack back 1: -8665240310346209572
+      rei attack back 2: -1635346874656759328
+      rei attack left 1: 2819270585074865560
+      rei attack left 2: 5083902505414998798
+      rei attack left 3: 1785531324103028807
+      rei attack right 1: -1988843200454131979
+      rei attack right 2: 1312464800286534419
+      rei attack right 3: 1733401638012126182
+      rei back: -5055593886701897566
+      rei left: -5507440934575108025
+      rei right: -7522442092704560097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

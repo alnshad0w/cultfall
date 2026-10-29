@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: f28118797d407bb41a99cf46d300a06d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3838669210436166272
+    second: cultist atlas_0
+  - first:
+      213: 818546233673954825
+    second: cultist atlas_1
+  - first:
+      213: 7615900338088743811
+    second: cultist atlas_2
+  - first:
+      213: -1189652395522678759
+    second: cultist atlas_3
+  - first:
+      213: 4517482270000572240
+    second: cultist atlas_4
+  - first:
+      213: 2815702130582385955
+    second: cultist atlas_5
+  - first:
+      213: -5150957030719532773
+    second: cultist atlas_6
+  - first:
+      213: 4554894381633388277
+    second: cultist atlas_7
+  - first:
+      213: 1910693728943373012
+    second: cultist atlas_8
+  - first:
+      213: 3857012293278597136
+    second: cultist atlas_9
+  - first:
+      213: 5692553724528081773
+    second: cultist atlas_10
+  - first:
+      213: -7423147402158626214
+    second: cultist atlas_11
+  - first:
+      213: 129563590646583097
+    second: cultist atlas_12
+  - first:
+      213: 1937425877074117415
+    second: cultist atlas_13
+  - first:
+      213: 8450806356969183548
+    second: cultist atlas_14
+  - first:
+      213: -4896259589930372681
+    second: cultist atlas_15
+  - first:
+      213: -3638586770846967280
+    second: cultist atlas_16
+  - first:
+      213: 8916094138377077936
+    second: cultist atlas_17
+  - first:
+      213: -2461432774601795694
+    second: cultist atlas_18
+  - first:
+      213: 3506074407599351712
+    second: cultist atlas_19
+  - first:
+      213: -3755504650902487805
+    second: cultist atlas_20
+  - first:
+      213: 2728681581103692125
+    second: cultist atlas_21
+  - first:
+      213: -8256986860099718643
+    second: cultist atlas_22
+  - first:
+      213: 1648530756107340856
+    second: cultist atlas_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cultist walk front
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 759
+        width: 102
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d19b5f0be4abac0800000000000000
+      internalID: -3838669210436166272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist walk front 1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 759
+        width: 109
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906be52767f0c5b00800000000000000
+      internalID: 818546233673954825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist walk back
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 753
+        width: 102
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3839e88b10d11b960800000000000000
+      internalID: 7615900338088743811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist walk back 1
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 753
+        width: 109
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910ada603718d7fe0800000000000000
+      internalID: -1189652395522678759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist attack back
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 747
+        width: 96
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3257ca66b22631720800000000000000
+      internalID: 2815702130582385955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist attack back 1
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 747
+        width: 104
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1159aa1fdf1488b0800000000000000
+      internalID: -5150957030719532773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist attack back 2
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 747
+        width: 102
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe3ea6ae4c363f30800000000000000
+      internalID: 4554894381633388277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist attack front
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 471
+        width: 102
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0108f23de3cd68530800000000000000
+      internalID: 3857012293278597136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist attack front 1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 471
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bb257b373000f40800000000000000
+      internalID: 5692553724528081773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist attack front 2
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 471
+        width: 96
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aa8fa64ceabf890800000000000000
+      internalID: -7423147402158626214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist walk right
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 489
+        width: 91
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72307adf19e13ea10800000000000000
+      internalID: 1937425877074117415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist walk right 1
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 489
+        width: 95
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39d2cc7b9b474570800000000000000
+      internalID: 8450806356969183548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist attack left
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 501
+        width: 122
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1b91e28ddfc0cb0800000000000000
+      internalID: -4896259589930372681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist attack left 1
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 501
+        width: 122
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a1b372c94218dc0800000000000000
+      internalID: -3638586770846967280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist attack left 2
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 501
+        width: 91
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b488ed11645cbb70800000000000000
+      internalID: 8916094138377077936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist atlas_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 180
+        width: 102
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d31a2ea64c1ebc0800000000000000
+      internalID: -3755504650902487805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist atlas_21
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 180
+        width: 102
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5936dad0793ed520800000000000000
+      internalID: 2728681581103692125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist atlas_22
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 179
+        width: 132
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0230b8b23a496d80800000000000000
+      internalID: -8256986860099718643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist atlas_23
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 180
+        width: 164
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c85170df1c0e610800000000000000
+      internalID: 1648530756107340856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist walk left
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 251
+        width: 110
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34bdd4cf76f3ca4ab6d7c7069933fd1
+      internalID: -1914476063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist walk left 1
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 250
+        width: 139
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d1dffad28bb25489a633866958c38d
+      internalID: -564254358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist attack right
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 234
+        width: 114
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694aeb23153c27941b0f5d66a3306844
+      internalID: -241005776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist attack right 1
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 234
+        width: 115
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7159dd276bcc03a4b898eeb5cdb2a155
+      internalID: -1316736490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cultist attack right 2
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 235
+        width: 151
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498bffae94f3771498427aa80bda1443
+      internalID: 1040336464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dbae6e46fb9fd7241a99c48abb9c1d54
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cultist atlas_20: -3755504650902487805
+      cultist atlas_21: 2728681581103692125
+      cultist atlas_22: -8256986860099718643
+      cultist atlas_23: 1648530756107340856
+      cultist attack back: 2815702130582385955
+      cultist attack back 1: -5150957030719532773
+      cultist attack back 2: 4554894381633388277
+      cultist attack front: 3857012293278597136
+      cultist attack front 1: 5692553724528081773
+      cultist attack front 2: -7423147402158626214
+      cultist attack left: -4896259589930372681
+      cultist attack left 1: -3638586770846967280
+      cultist attack left 2: 8916094138377077936
+      cultist attack right: 129563590646583097
+      cultist attack right 1: -2461432774601795694
+      cultist attack right 2: 3506074407599351712
+      cultist walk back: 7615900338088743811
+      cultist walk back 1: -1189652395522678759
+      cultist walk front: -3838669210436166272
+      cultist walk front 1: 818546233673954825
+      cultist walk left: 4517482270000572240
+      cultist walk left 1: 1910693728943373012
+      cultist walk right: 1937425877074117415
+      cultist walk right 1: 8450806356969183548
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 18c21c58e9d05d84e85a3c1953d0927a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1473027132439726207
+    second: kagari atlas_0
+  - first:
+      213: 8532351510870105467
+    second: kagari atlas_1
+  - first:
+      213: -6871852293797559738
+    second: kagari atlas_2
+  - first:
+      213: 8620337461432211211
+    second: kagari atlas_3
+  - first:
+      213: 4817340462995611098
+    second: kagari atlas_4
+  - first:
+      213: 5177044760165235178
+    second: kagari atlas_5
+  - first:
+      213: 1657544865241153421
+    second: kagari atlas_6
+  - first:
+      213: 2564737945227764948
+    second: kagari atlas_7
+  - first:
+      213: -3013299776274629637
+    second: kagari atlas_8
+  - first:
+      213: -3652309332125102985
+    second: kagari atlas_9
+  - first:
+      213: -4174213076572980017
+    second: kagari atlas_10
+  - first:
+      213: -1716440554663559966
+    second: kagari atlas_11
+  - first:
+      213: -313252457567982064
+    second: kagari atlas_12
+  - first:
+      213: 3633451599504758550
+    second: kagari atlas_13
+  - first:
+      213: 1014727919302963346
+    second: kagari atlas_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kagari atlas_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 819
+        width: 125
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78059d5f5e317410800000000000000
+      internalID: 1473027132439726207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kagari atlas_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 819
+        width: 125
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d1e282e70096670800000000000000
+      internalID: 8532351510870105467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kagari atlas_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 819
+        width: 125
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6424e375fb642a0a0800000000000000
+      internalID: -6871852293797559738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kagari atlas_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 724
+        width: 37
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07d8a8af3791a770800000000000000
+      internalID: 8620337461432211211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kagari atlas_4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 755
+        width: 349
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add18f2b0a1aad240800000000000000
+      internalID: 4817340462995611098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kagari atlas_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 342
+        width: 408
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec343dd86afd28e0800000000000000
+      internalID: -1716440554663559966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kagari atlas_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 54
+        width: 251
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29079b59aa9051e00800000000000000
+      internalID: 1014727919302963346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 50313cb6a9fbe03438998951719b0ccd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kagari atlas_0: 1473027132439726207
+      kagari atlas_1: 8532351510870105467
+      kagari atlas_10: -4174213076572980017
+      kagari atlas_11: -1716440554663559966
+      kagari atlas_12: -313252457567982064
+      kagari atlas_13: 3633451599504758550
+      kagari atlas_14: 1014727919302963346
+      kagari atlas_2: -6871852293797559738
+      kagari atlas_3: 8620337461432211211
+      kagari atlas_4: 4817340462995611098
+      kagari atlas_5: 5177044760165235178
+      kagari atlas_6: 1657544865241153421
+      kagari atlas_7: 2564737945227764948
+      kagari atlas_8: -3013299776274629637
+      kagari atlas_9: -3652309332125102985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
